@@ -6,3 +6,20 @@ button {
     cursor: pointer;
     margin: 3vh 3vh;
 }
+
+p {
+     
+  color: red;
+  font-family: "Verdana";
+  width: 500px;
+  border: 1px solid black;
+}
+
+h2
+{
+   font-family:	"Comic Sans MS";
+   text-decoration  : underline black;
+   text-align: center;
+    
+   
+}
